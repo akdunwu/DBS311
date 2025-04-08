@@ -35,6 +35,6 @@ try {
   
   } catch (err) {
     print("\n Error during aggregation:");
-    print(err);
+    console.log(err);
   }
   

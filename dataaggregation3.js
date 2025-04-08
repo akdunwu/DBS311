@@ -38,6 +38,6 @@ try {
   
   } catch (err) {
     print("\nError during aggregation:");
-    print(err);
+    console.log(err);
   }
   
