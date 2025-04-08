@@ -186,7 +186,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Alice", 
 			lname: "Walker", 
-			email: "alice@gamil.com", 
+			email: "alice@gmail.com", 
 			phonenum: "123-456-7890", 
 			address: 
 			{ 
@@ -200,7 +200,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Bob", 
 			lname: "Smith", 
-			email: "bob@gamil.com", 
+			email: "bob@gmail.com", 
 			phonenum: "987-654-3210", 
 			address: 
 			{ 
@@ -214,7 +214,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Carol", 
 			lname: "Jones", 
-			email: "carol@gamil.com", 
+			email: "carol@gmail.com", 
 			phonenum: "234-567-8901", 
 			address: 
 			{ 
@@ -228,7 +228,7 @@ db.customers.insertMany(
 		{ 
 			fname: "David", 
 			lname: "Brown", 
-			email: "david@gamil.com", 
+			email: "david@gmail.com", 
 			phonenum: "345-678-9012", 
 			address: 
 			{ 
@@ -242,7 +242,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Ella", 
 			lname: "White", 
-			email: "ella@gamil.com", 
+			email: "ella@gmail.com", 
 			phonenum: "456-789-0123", 
 			address: 
 			{ 
@@ -256,7 +256,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Frank", 
 			lname: "Taylor", 
-			email: "frank@gamil.com", 
+			email: "frank@gmail.com", 
 			phonenum: "567-890-1234", 
 			address: 
 			{ 
@@ -270,7 +270,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Grace", 
 			lname: "Hall", 
-			email: "grace@gamil.com", 
+			email: "grace@gmail.com", 
 			phonenum: "678-901-2345", 
 			address: 
 			{ street: "213 Elm St", 
@@ -283,7 +283,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Henry", 
 			lname: "King", 
-			email: "henry@gamil.com", 
+			email: "henry@gmail.com", 
 			phonenum: "789-012-3456", 
 			address: 
 			{ 
@@ -297,7 +297,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Ivy", 
 			lname: "Green", 
-			email: "ivy@gamil.com", 
+			email: "ivy@gmail.com", 
 			phonenum: "890-123-4567", 
 			address: 
 			{ 
@@ -311,7 +311,7 @@ db.customers.insertMany(
 		{ 
 			fname: "Jack", 
 			lname: "Black", 
-			email: "jack@gamil.com", 
+			email: "jack@gmail.com", 
 			phonenum: "901-234-5678", 
 			address: 
 			{ 
